@@ -1,4 +1,4 @@
-# Sale Dashboard with RFM using PowerBI
+
 # 📊 Sales Dashboard with RFM Analysis (Power BI)
 
 ## 🔍 Overview
