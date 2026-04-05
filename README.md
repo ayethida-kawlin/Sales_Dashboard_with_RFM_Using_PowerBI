@@ -1,5 +1,4 @@
-
-# 📊 Sales Dashboard with RFM Analysis (Power BI)
+# 📊 Sales Dashboard with RFM Analysis 2024-2025 (Power BI)
 
 ## 🔍 Overview
 This project showcases an interactive **Sales Dashboard** developed using **Power BI**, with a strong focus on **RFM (Recency, Frequency, Monetary) analysis** to segment customers and generate actionable business insights.
@@ -15,10 +14,10 @@ The dashboard is designed to support data-driven decision-making by answering ke
 ## 🚀 Features
 
 ### 📌 Key Metrics
-- **Total Revenue:** 10.64M  
+- **Total Revenue:** 8.91M  
 - **Total Customers:** 4K  
-- **Average Order Value (AOV):** 515.31  
-- **Customer Lifetime Value (CLV):** 2.45K  
+- **Average Order Value (AOV):** 480.76 
+- **Customer Lifetime Value (CLV):** 17.36M 
 
 ---
 
@@ -37,7 +36,7 @@ The dashboard is designed to support data-driven decision-making by answering ke
 - **Customer Count by Segment**  
   Donut chart showing the distribution of customers across different segments.
 
-- **Top Customers Table**  
+- **Top Customers with RFM Table**  
   Highlights high-value customers with detailed metrics:
   - Monetary  
   - Frequency  
@@ -51,7 +50,7 @@ The dashboard is designed to support data-driven decision-making by answering ke
   - Monetary Value (Y-axis)  
   - Segment classification  
 
-- **Customer Segment Migration Table**  
+- **Customer Segment Summary Table**  
   Summarizes average behavior per segment:
   - Average Monetary  
   - Average Frequency  
