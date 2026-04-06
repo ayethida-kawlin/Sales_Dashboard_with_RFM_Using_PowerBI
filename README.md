@@ -104,7 +104,7 @@ The dataset was processed through several steps to ensure accuracy and usability
 
 ## 🖼 Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](Images/Dashboard.png)
 
 ---
 
