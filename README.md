@@ -36,13 +36,13 @@ The dashboard is designed to support data-driven decision-making by answering ke
 - **Customer Count by Segment**  
   Donut chart showing the distribution of customers across different segments.
 
-- **Top Customers with RFM Table**  
+- **Customer Segmentation Dashboard – RFM Insights**  
   Highlights high-value customers with detailed metrics:
-  - Monetary  
-  - Frequency  
-  - Recency  
+  - Recency_Score 
+  - Monetary_Score  
+  - Frequency_Score     
+  - Score  
   - Segment  
-  - Rank  
 
 - **RFM Scatter Plot (Advanced)**  
   Visual representation of customer clusters based on:
